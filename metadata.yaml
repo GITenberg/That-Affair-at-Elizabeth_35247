@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: http://en.wikipedia.org/wiki/Burton_E._Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35247#That-Affair-at-Elizabeth
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2011-02-12'
 gutenberg_type: Text
